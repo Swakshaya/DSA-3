@@ -1,0 +1,15 @@
+Objectives:
+
+To automate the allocation of students to laboratory sessions based on their preferences and available lab capacities.
+
+To model students and laboratories as a bipartite graph, where edges represent student preferences.
+
+To apply the Maximum Bipartite Matching algorithm to maximize the number of successful student–lab assignments.
+
+To ensure capacity constraints are respected, with each student assigned to at most one laboratory.
+
+To generate a clear allocation table showing student assignments, lab utilization, and unassigned students.
+
+To visualize the student–lab bipartite graph and matching results for better understanding.
+
+To demonstrate the practical use of graph algorithms in real-world scheduling and resource-allocation problems.
